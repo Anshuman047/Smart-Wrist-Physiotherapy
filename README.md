@@ -1,4 +1,7 @@
 # 🏥 Smart Physiotherapy: Wrist Movement Assessment using TinyML
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 *Real-time Monitoring of Distal Carpal Kinematics with IMU Sensors and Machine Learning*
 
 ## Abstract
